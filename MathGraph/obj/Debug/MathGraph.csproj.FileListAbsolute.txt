@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\MathGraph\MathGraph\bin\Debug\MathGraph.exe.config
+C:\Users\User\source\repos\MathGraph\MathGraph\bin\Debug\MathGraph.exe
+C:\Users\User\source\repos\MathGraph\MathGraph\bin\Debug\MathGraph.pdb
+C:\Users\User\source\repos\MathGraph\MathGraph\obj\Debug\MathGraph.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\MathGraph\MathGraph\obj\Debug\MathGraph.Properties.Resources.resources
+C:\Users\User\source\repos\MathGraph\MathGraph\obj\Debug\MathGraph.csproj.GenerateResource.cache
+C:\Users\User\source\repos\MathGraph\MathGraph\obj\Debug\MathGraph.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MathGraph\MathGraph\obj\Debug\MathGraph.exe
+C:\Users\User\source\repos\MathGraph\MathGraph\obj\Debug\MathGraph.pdb
+C:\Users\User\source\repos\MathGraph\MathGraph\obj\Debug\MathGraph.Form1.resources
